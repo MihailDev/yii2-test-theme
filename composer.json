@@ -1,0 +1,10 @@
+{
+    "name": "mihaildev/yii2-test-theme",
+
+    "type": "yii2-theme",
+
+    "target-dir": "test-theme",
+    "require": {
+        "mihaildev/yii2-thememanager":"*"
+    }
+}
